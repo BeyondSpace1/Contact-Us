@@ -57,6 +57,7 @@ input[type=text],input[type=email], select {
     color: white;
     display: inline-block;
     border:none;
+    outline:none;
     border: 1px solid rgb(0, 47, 255);
     border-radius: 5px;
     box-sizing: border-box;
